@@ -1,0 +1,6 @@
+[
+  "projeto/tests/test_pessoa.py::test_pessoa_alterar_nome_valido",
+  "projeto/tests/test_pessoa.py::test_pessoa_idade_negativa_retorna_mensagem_excessao",
+  "projeto/tests/test_pessoa.py::test_pessoa_idade_valida",
+  "projeto/tests/test_pessoa.py::test_pessoa_nome_valido"
+]
